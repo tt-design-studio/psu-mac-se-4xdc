@@ -23,4 +23,4 @@ Also make sure to prevent rubbing / direct contact of the wires on metal parts s
 - Bolle Ethernet PDS combo riser
 - Logic board current draw: ~5.5 A | voltage at test card interface J14 ~4.90 V
 
-The above configuration is the highest draw config I have found so far in limited testing. At a lighter load (board + Bolle riser), ~ 2.5A it was at ~4.96V.
+The above configuration is the highest draw config I have found so far in limited testing. At a lighter load (board + Bolle riser), for ~ 2.5 A current draw, it was at ~4.96 V.
